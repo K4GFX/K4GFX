@@ -1,7 +1,7 @@
 <br>
 <p align="center">
 <a href="https://atoms-gaming.com" target="_blank">
-<img src="https://github.com/K4GFX/ATOMS/assets/61093554/456dc311-1b51-440b-a5fe-a4bbf61a25e3" alt="ATOMS" height="250" width="250"/>
+<img src="https://atoms-gaming.com/wp-content/uploads/logo.png" alt="ATOMS" height="250" width="250"/>
 </a>
 </p>
 
