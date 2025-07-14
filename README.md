@@ -1,76 +1,62 @@
-<br>
 <p align="center">
-<a href="https://atoms-gaming.com" target="_blank">
-<img src="https://atoms-gaming.com/wp-content/uploads/logo.png" alt="ATOMS" height="250" width="250"/>
-</a>
+  <a href="https://atoms-gaming.com" target="_blank">
+    <img src="https://atoms-gaming.com/wp-content/uploads/logo.png" alt="ATOMS" width="120" />
+  </a>
 </p>
 
-<div align="center">
-<samp>
-
-# K4rbonGFX
-
-
-</samp>
-</div>
-
-<ul>
-  <li>🌟ATOMS運営(ゲーマー、クリエイター向けコミュニティ)</li>
-  <li>🎨バナー、アイコン作成(Photoshop/Cinema4d)</li>
-  <li>💻Web制作(HTML/CSS/JavaScript(jQuery)/PHP/MySQL/WordPress/GAS/etc)</li>
-  <li>🎥動画編集(Premiere/Aftereffects)</li>
-  </li>
-</ul>
+<h1 align="center">K4rbonGFX</h1>
 
 <p align="center">
-  <a href="http://atoms-gaming.com">ATOMS GAMING</a> | <a href="http://atoms-gaming.com/portfolio">Portfolio</a>
+  🎮 Web & Graphic Designer / Developer<br>
+  Founder & Leader of <a href="https://atoms-gaming.com" target="_blank">ATOMS GAMING</a>
 </p>
 
-<div align="center">
-<table>
-<tbody>
-<td align="center">
-<img width="2000" height="0" alt="" aria-hiden><br>
-<sub>Designer & Leader for 𝗔𝗧𝗢𝗠𝗦 </a></sub><br>
-<img width="2000" height="0" alt="" aria-hiden>
-</td>
-</tbody>
-</table>
-</div>
+---
 
+## 🧩 About Me
 
-<div align="center">
-<samp>
+ATOMS GAMING の代表・デザイナー／開発者として、以下のようなクリエイティブ活動を行っています。
 
-## SNS
+- 🧠 **コミュニティ運営**：ゲーマー・クリエイター向けの交流・成長の場を提供
+- 🎨 **グラフィック・Webデザイン**：ブランド設計・バナー・UI制作
+- 🌐 **ホームページ制作**：モダンで機能的なWebサイトの構築
 
-<br>
+### 🔗 ATOMS 関連サイト
+- 🏠 [ATOMS ホームページ](https://atoms-gaming.com)
+- 🌌 [ATOMS SPACE](https://atoms-gaming.space)
 
-[𝕏](https://twitter.com/K4rbonGFX)
-[YouTube](https://www.youtube.com/@K4rbonGFX)
-[Instagram](https://www.instagram.com/K4rbonGFX)
+---
 
-## Skills
+## 🛠️ Skills
 
-<br>
+### 💻 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,php,mysql,git,docker,wordpress,nextjs,vercel,supabase,threejs,tailwind" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,mysql,materialui,tailwind,nextjs,threejs,npm,vscode,github,ae,ps,pr,discord,gmail,twitter,instagram)](https://skillicons.dev)
+### 🎨 Design & Video
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ae,pr" />
+</p>
 
-</samp>
-</div>
+---
 
+## 🌍 Socials
 
-<!--
-**K4GFX/K4GFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://twitter.com/K4rbonGFX" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@K4rbonGFX" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/K4rbonGFX" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <sub>📩 お問い合わせは <a href="https://twitter.com/K4rbonGFX" target="_blank">X（旧Twitter）のDM</a> まで</sub>
+</p>
